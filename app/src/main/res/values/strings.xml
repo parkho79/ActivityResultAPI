@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Sample</string>
+
+    <string name="start_sub">Sub activity 시작</string>
+
+    <string name="send_input">입력값 보내기</string>
+
+</resources>
